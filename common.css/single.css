@@ -1,0 +1,61 @@
+.content{
+    padding: 0.3rem;
+    border-bottom: 1px solid #ccc;
+    position: relative;
+    font-size: 0;
+}
+.font1{
+    font-size: 0.28rem ;
+    color:#333;
+}
+.font2{
+    font-size: 0.24rem ;
+    color:#666;
+    line-height: 0.4rem;
+}
+.price{
+    font-size:0.4rem;
+    color:#ff6700;
+}
+.pr{
+    margin-top: 0.1rem;
+    margin-bottom: 0.1rem;
+    font-size: 0.28rem ;
+    color:#333;
+}
+.click{
+    padding: 0.2rem 0.7rem;
+    box-sizing:border-box;
+    font-size: 0.26rem;
+    border-radius: 0.1rem;
+    color: #fff;
+    background: #ff6700;
+    position: absolute;
+    top:0.65rem;
+    right:0.3rem;
+}
+.font3{
+    font-size: 0.22rem ;
+    color:#666;
+}
+.detail{
+    font-size: 0.26rem ;
+    color:#666;
+}
+.img1{
+    width:3.5rem;
+    height: 0.9rem;
+    display: block;
+    margin:0.2rem 0;
+}
+.img2{
+    width:2.7rem;
+    height: 1.8rem;
+    display: block;
+    margin:0.1rem 0;
+}
+.font4{
+    font-size: 0.22rem;
+    color:#999;
+    margin: 0.2rem 0;
+}

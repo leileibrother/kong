@@ -1,0 +1,31 @@
+.coop{
+    padding:0.1rem 0 0.15rem 0.3rem;
+    font-size: 0.24rem;
+    color:#333;
+    border-bottom: 1px solid #ccc;
+}
+.coop span{
+    font-size: 0.3rem;
+    line-height: 0.5rem;
+}
+.coop p{
+    line-height: 0.5rem;
+}
+.pad{
+    padding: 0.1rem 0 0.3rem 0.3rem;
+    font-size: 0.24rem;
+    color:#333;
+}
+li{
+    line-height: 0.4rem;
+}
+.consept{
+    font-size: 0.36rem;
+    height:1rem;
+    padding: 0.3rem 0 0.2rem 0.3rem;
+    border-bottom: 1px solid #ccc;
+    box-sizing:border-box;
+}
+.ft{
+    font-size: 0.16rem;
+}

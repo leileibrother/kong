@@ -1,0 +1,55 @@
+.chag{
+    width:0.31rem;
+    height:0.3rem;
+    display: inline-block;
+    background:url(../images/picture_03.jpg);
+    position: relative;
+    top: 0.05rem;
+    background-size:cover;
+}
+
+.bg-img2{
+    background:url(../images/picture_06.jpg);
+    background-size:cover;
+}
+.bg-img3{
+    background:url(../images/picture_08.jpg);
+    background-size:cover;
+}
+.bg-img4{
+    background:url(../images/picture_04.jpg);
+    background-size:cover;
+}
+.bg-img5{
+    background:url(../images/picture_19.jpg);
+    background-size:cover;
+}
+.bg-img6{
+    background:url(../images/picture_26.jpg);
+    background-size:cover;
+}
+ul{
+    padding-left:0.28rem;
+}
+ul li{
+    width:2.25rem;
+    height:2.25rem;
+    border-radius: 0.1rem;
+    float: left;
+    background: #fff;
+    margin-right: 0.1rem;
+    margin-bottom: 0.1rem;
+    position: relative;
+}
+ul li img{
+    width:100%;
+}
+.wk{
+    width:100%;
+    font-size: 0.26rem;
+    color:#545454;
+    background: #fff;
+    position: absolute;
+    bottom: 0.05rem;
+    text-align: center;
+}
